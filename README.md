@@ -13,3 +13,4 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Docker &
 - Kubernetes
 
+Had problem installing tomcat on centos updated dockerfile : Here is the udated one 
